@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">helloWorldApp</string>
+    <string name="Welcome">Добро пожаловать в разработку на Андроид!</string>
+    <string name="bug_logo">Deitel логотип</string>
+</resources>
